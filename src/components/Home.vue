@@ -65,6 +65,7 @@
   background: #f9f9f9; /* Light background for the text */
   border-radius: 10px;
   padding: 20px;
+  color:black;
   box-shadow: 0 2px 15px rgba(0,0,0,0.1); /* Optional: adds depth */
 }
 
