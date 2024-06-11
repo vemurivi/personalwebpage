@@ -65,7 +65,9 @@ export default {
         { name: 'HTML', level: 'Experienced' },
         { name: 'CSS', level: 'Intermediate' },
         { name: 'JavaScript', level: 'Intermediate' },
-        { name: 'Vue.js', level: 'Advanced' }
+        { name: 'Vue.js', level: 'Advanced' },
+        { name: 'Angular', level: 'Advanced' },
+        { name: 'Blazor', level: 'Advanced' }
       ],
       backendSkills: [
         { name: '.NET Framework', level: 'Experienced' },
